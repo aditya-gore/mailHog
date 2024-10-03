@@ -1,0 +1,24 @@
+.env
+.vscode
+.idea
+package-lock.json
+bin/
+morgan-logs/
+uploads/
+public/
+node_modules/
+routes/config/dbConfig.json
+routes/config/redisConfig.json
+package-lock.json
+
+# tests
+
+webHookUrl.json
+dump.rdb
+pm2.json
+routes/config/saml-config.js
+morgan-logs/
+.env.testing
+tests/coverage
+tests/results
+webHookUrl.json
